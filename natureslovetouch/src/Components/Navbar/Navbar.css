@@ -38,7 +38,7 @@
     width: 80%;
     height: 3px;
     border-radius: 10px;
-    background-color: #ff4141;
+    background-color: greenyellow;
 }
 .nav-login-cart{
     display: flex;
@@ -73,5 +73,5 @@
     font-size: 14px;
     background: red;
     color: white;
-    
+
 }
